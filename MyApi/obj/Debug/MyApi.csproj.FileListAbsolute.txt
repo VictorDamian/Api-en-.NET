@@ -150,6 +150,7 @@ C:\Users\stalk\Documents\API\MyApi\MyApi\bin\roslyn\vbc.rsp
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\roslyn\VBCSCompiler.exe
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\Antlr3.Runtime.dll
+C:\Users\stalk\Documents\API\MyApi\MyApi\bin\Domain.dll
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\EntityFramework.dll
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\EntityFramework.SqlServer.dll
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
@@ -166,6 +167,7 @@ C:\Users\stalk\Documents\API\MyApi\MyApi\bin\System.Web.WebPages.Deployment.dll
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\System.Web.WebPages.dll
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\System.Web.WebPages.Razor.dll
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\WebGrease.dll
+C:\Users\stalk\Documents\API\MyApi\MyApi\bin\Domain.pdb
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\EntityFramework.xml
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\EntityFramework.SqlServer.xml
 C:\Users\stalk\Documents\API\MyApi\MyApi\bin\Newtonsoft.Json.xml

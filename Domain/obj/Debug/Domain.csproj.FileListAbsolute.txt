@@ -1,0 +1,5 @@
+C:\Users\stalk\Documents\API\MyApi\Domain\bin\Debug\Domain.dll
+C:\Users\stalk\Documents\API\MyApi\Domain\bin\Debug\Domain.pdb
+C:\Users\stalk\Documents\API\MyApi\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\stalk\Documents\API\MyApi\Domain\obj\Debug\Domain.dll
+C:\Users\stalk\Documents\API\MyApi\Domain\obj\Debug\Domain.pdb

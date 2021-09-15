@@ -14,12 +14,22 @@ namespace MyApi.Controllers
 {
     public class STUDENTSController : ApiController
     {
+        private List<Domain.Models.StudentsModel> lst = new List<Domain.Models.StudentsModel>();
         private SCHOOLEntities db = new SCHOOLEntities();
 
         // GET: api/STUDENTS
-        public IQueryable<STUDENTS> GetSTUDENTS()
+        public IHttpActionResult GetSTUDENTS()
         {
-            return db.STUDENTS;
+            lst = (from i in db.STUDENTS
+                   select new Domain.Models.StudentsModel
+                   {
+                       _Id = i.ID,
+                       _Name = i.NAME,
+                       _Lastname = i.LASTNAME,
+                       _Cellphone = i.CELLPHONE
+                   }).ToList();
+
+            return Ok(lst);
         }
 
         // GET: api/STUDENTS/5

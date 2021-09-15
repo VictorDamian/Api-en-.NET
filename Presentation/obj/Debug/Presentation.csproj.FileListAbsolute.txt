@@ -1,0 +1,15 @@
+C:\Users\stalk\Documents\API\MyApi\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\stalk\Documents\API\MyApi\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\stalk\Documents\API\MyApi\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\stalk\Documents\API\MyApi\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\stalk\Documents\API\MyApi\Presentation\obj\Debug\Presentation.Forms.FormStudents.resources
+C:\Users\stalk\Documents\API\MyApi\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\stalk\Documents\API\MyApi\Presentation\bin\Debug\Presentation.exe
+C:\Users\stalk\Documents\API\MyApi\Presentation\bin\Debug\Presentation.pdb
+C:\Users\stalk\Documents\API\MyApi\Presentation\bin\Debug\Domain.dll
+C:\Users\stalk\Documents\API\MyApi\Presentation\bin\Debug\Domain.pdb
+C:\Users\stalk\Documents\API\MyApi\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\stalk\Documents\API\MyApi\Presentation\obj\Debug\Presentation.exe
+C:\Users\stalk\Documents\API\MyApi\Presentation\obj\Debug\Presentation.pdb
+C:\Users\stalk\Documents\API\MyApi\Presentation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stalk\Documents\API\MyApi\Presentation\bin\Debug\Newtonsoft.Json.xml
